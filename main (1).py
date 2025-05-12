@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-
-
 def analisar_lista(numeros):
     if not numeros:
         return "Lista vazia."
